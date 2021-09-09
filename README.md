@@ -1,4 +1,4 @@
-### Olá, eu sou Vinícius Canaan 👋
+### Olá, meu nome é Vinícius Canaan, Bem vindo ao meu GitHub 👋
 
 <div>
   <a href="https://github.com/ViniciusCanaan">
